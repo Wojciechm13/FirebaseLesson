@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893967552078",
+    "firebase_url": "https://fir-lesson-609ec-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-lesson-609ec",
+    "storage_bucket": "fir-lesson-609ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893967552078:android:1159f473e30cd07df27d1f",
+        "android_client_info": {
+          "package_name": "com.example.firebaselesson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893967552078-njbd57hjap2ch844hl27n01638vuvbnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaselesson",
+            "certificate_hash": "15930ee7fac704b29cb4a72f0d79b6ce1439fb47"
+          }
+        },
+        {
+          "client_id": "893967552078-4kmqki2p8eegggtt48cebonhnksbo5p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDumrvnjyLfQiM1MPWV1dQ16Lj4xbQUuvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893967552078-4kmqki2p8eegggtt48cebonhnksbo5p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
